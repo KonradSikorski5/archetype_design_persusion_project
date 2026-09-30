@@ -91,7 +91,7 @@ The other failure is using Memphis as decoration without meaning. The original g
 
 - Design Museum, "Memphis": https://designmuseum.org/memphis
 - Wikipedia, "Memphis Group": https://en.wikipedia.org/wiki/Memphis_Group
-- Phillips auction catalog, Ettore Sottsass "Casablanca" sideboard: https://www.phillips.com/detail/小艾托雷·索特薩斯/159395
+-  Phillips auction catalog, Ettore Sottsass "Casablanca" sideboard (1981)
 - Canadian Centre for Architecture, Memphis exhibition publication record: https://www.cca.qc.ca/en/search/details/library/publication/1104041858
 - Barbara Radice, *Memphis: Research, Experiences, Results, Failures and Successes of New Design* (Rizzoli, 1984)
 - Robert Venturi, *Complexity and Contradiction in Architecture* (Museum of Modern Art, 1966)
