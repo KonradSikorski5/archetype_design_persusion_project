@@ -75,11 +75,13 @@ It is a poor fit for brands that need to feel calm, trustworthy, or premium in a
 
 **Later influence.** Memphis became collectible. Fashion designer Karl Lagerfeld furnished an apartment entirely with Memphis pieces in the early 1980s, and David Bowie's Memphis collection was auctioned at Sotheby's in 2016. The style's look, with its geometric shapes, squiggles, and bright colors, shows up constantly in 1990s TV graphics and in flat illustration styles used in modern app and web design.
 
-<!-- TODO: Add 2-3 images here (e.g., the Carlton bookcase and Superlamp).
-     Use images from Wikimedia Commons or a museum site, and credit each one
-     in the Sources section below. Format:
-     ![Carlton bookcase by Ettore Sottsass](IMAGE_URL)
-     *Image: [source name](SOURCE_URL)* -->
+![Carlton bookcase by Ettore Sottsass, 1981](https://commons.wikimedia.org/wiki/Special:FilePath/Ettore_sottsass_per_memphis,_libreria_carlton,_1981.jpg?width=500)
+
+*Carlton bookcase, Ettore Sottsass for Memphis, 1981 (Triennale Design Museum, Milan). Photo: Sailko, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ettore_sottsass_per_memphis,_libreria_carlton,_1981.jpg).*
+
+![Casablanca sideboard by Ettore Sottsass, 1981](https://commons.wikimedia.org/wiki/Special:FilePath/Ettore_sottsass_per_memphis_srl.,_libreria_casablanca,_pregnana_milanese_1981.jpg?width=500)
+
+*Casablanca sideboard, Ettore Sottsass for Memphis, 1981 (Kunstgewerbemuseum, Berlin). Photo: Sailko, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ettore_sottsass_per_memphis_srl.,_libreria_casablanca,_pregnana_milanese_1981.jpg).*
 
 ## What goes wrong
 
@@ -91,10 +93,12 @@ The other failure is using Memphis as decoration without meaning. The original g
 
 - Design Museum, "Memphis": https://designmuseum.org/memphis
 - Wikipedia, "Memphis Group": https://en.wikipedia.org/wiki/Memphis_Group
--  Phillips auction catalog, Ettore Sottsass "Casablanca" sideboard (1981)
+- Phillips auction catalog, Ettore Sottsass "Casablanca" sideboard (1981)
 - Canadian Centre for Architecture, Memphis exhibition publication record: https://www.cca.qc.ca/en/search/details/library/publication/1104041858
 - Barbara Radice, *Memphis: Research, Experiences, Results, Failures and Successes of New Design* (Rizzoli, 1984)
 - Robert Venturi, *Complexity and Contradiction in Architecture* (Museum of Modern Art, 1966)
+- The Metropolitan Museum of Art, "Carlton" Room Divider: https://www.metmuseum.org/art/collection/search/486989
+- Image credits: Carlton and Casablanca photos by Sailko, Wikimedia Commons
 
 ---
 
