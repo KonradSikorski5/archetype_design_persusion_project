@@ -1,4 +1,6 @@
-# Memphis Design
+   **Author:** Konrad Sikorski
+   
+   # Memphis Design
 
 Memphis was a Milan-based design collective led by Ettore Sottsass, active from 1980 to 1987. It made furniture, lighting, textiles, ceramics, and glass that looked like nothing else in serious design at the time: loud colors, clashing patterns, cheap-looking materials, and shapes that seemed to be stacked on top of each other for fun.
 
