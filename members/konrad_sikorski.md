@@ -11,8 +11,7 @@ The Hero's core desire is to prove his worth through courage and effort. Its big
 The AI also connected it to my story. I'm the first in my family to go to college, and I'm working toward a career in IT at a big company. Nobody handed me a map for that, so I'm building the path myself.
 
 ## Do I agree?
-
-Yes. I pushed back and asked about the Magician, since that archetype fits a lot of people in IT: it's about using knowledge to transform things. But the Magician is about vision and making the impossible happen, while the Hero is about effort and not quitting. The second one describes how I actually get things done, so I'm going with the Hero.
+Yes. The AI also raised the Magician as a possible fit, since that archetype suits a lot of people in IT: it's about using knowledge to transform things. But the Magician is about vision and making the impossible happen, while the Hero is about effort and not quitting. The second one describes how I actually get things done, so I'm going with the Hero.
 
 ## Suggested brand style
 
