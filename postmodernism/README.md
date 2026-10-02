@@ -7,13 +7,12 @@ Postmodern design emerged in the 1960s through the 1980s as a reaction against m
 ## Styles
 
 1. [Memphis Design](memphis.md)
-2. Coming soon
-3. Coming soon
-4. Coming soon
-5. Coming soon
-6. Coming soon
+2. [Postmodern Architecture](postmodern_architecture.md)
+3. [Deconstructivism](deconstructivism.md)
+4. [Pop Art](pop_art.md)
+5. [New Wave Typography](new_wave_typography.md)
+6. [Grunge Typography](grunge_typography.md)
 
-*The remaining five styles will be finalized with the team before writing.*
 
 ---
 
